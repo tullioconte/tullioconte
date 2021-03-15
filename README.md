@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @tullioconte
+- 👀 Angular - Spring
+- 💞️ Full Stack Developer - JPanik Srl (Rome)
+- 📫 info@tullioconte.it
