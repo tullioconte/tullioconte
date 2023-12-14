@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @tullioconte
 - 👀 Angular - Spring
-- 💞️ Full Stack Developer - ESIS SRL (Rome)
+- 💞️ Full Stack Developer - ESIS SRL (Rome, full remote)
 - 📫 info@tullioconte.it
