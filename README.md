@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tullioconte
 - 👀 Angular - Spring
-- 💞️ Senior Full Stack Developer - ESIS SRL - Freelancer
+- 💞️ Senior Full Stack Developer
 - 💞️ IT Consultant Freelancer
 - 📫 info@tullioconte.it
